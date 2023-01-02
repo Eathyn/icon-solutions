@@ -1,0 +1,20 @@
+#home {
+	width: 46px;
+	height: 44px;
+	background-image: url(./img_sprites.gif);
+	background-position: 0 0;
+}
+
+#left {
+	width: 43px;
+	height: 44px;
+	background-image: url(./img_sprites.gif);
+	background-position: -47px 0;
+}
+
+#right {
+	width: 43px;
+	height: 44px;
+	background-image: url(./img_sprites.gif);
+	background-position: -91px 0;
+}
