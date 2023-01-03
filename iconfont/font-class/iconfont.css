@@ -1,0 +1,35 @@
+@font-face {
+	font-family: "iconfont"; /* Project id 3849514 */
+	src:
+		url(../fonts/iconfont.woff2) format('woff2'),
+		url(../fonts/iconfont.woff) format('woff'),
+		url(../fonts/iconfont.ttf) format('truetype');
+}
+
+.iconfont {
+	font-family: "iconfont" !important;
+	font-size: 25px;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Icon_earrings:before {
+	content: "\e602";
+}
+
+.icon-Icon_eyebrows:before {
+	content: "\e603";
+}
+
+.icon-Icon_eyes:before {
+	content: "\e604";
+}
+
+.icon-Icon_clothes:before {
+	content: "\e609";
+}
+
+.icon-Icon_freckle:before {
+	content: "\e60a";
+}
